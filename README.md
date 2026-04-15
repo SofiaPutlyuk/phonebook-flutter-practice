@@ -4,3 +4,4 @@
 3. Registration
 4. Login
 5. Connect api
+6. Almost finish phonebook
