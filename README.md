@@ -5,3 +5,4 @@
 4. Login
 5. Connect api
 6. Almost finish phonebook
+7. Continue finish phonebook
